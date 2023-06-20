@@ -1,0 +1,12 @@
+datasets
+lightning[extra]
+natsort
+opencv-python
+pandas==1.5.1
+pytorch-lightning
+scikit-learn==1.1.3
+streamlit
+tables==3.8.0
+transformers
+torchvision
+wget

@@ -1,0 +1,13 @@
+2023-05-17 11:00:52,662 INFO:images_folder /home/allal/PycharmProjects/learn_huggingface/frames/av:flux:tv:c+n:20230507T150000:2000, steps ['saad_cnews', {'generique': 'saad_gen_cnews'}], threshold 0.5, batch_size 128
+2023-05-17 11:00:52,662 INFO:Processing step : saad_cnews
+2023-05-17 11:00:52,665 INFO:Infering 2001 images
+2023-05-17 11:19:24,282 INFO:images_folder /home/allal/PycharmProjects/learn_huggingface/frames/av:flux:tv:c+n:20230507T150000:2000, steps ['saad_cnews', {'generique': 'saad_gen_cnews'}], threshold 0.5, batch_size 128
+2023-05-17 11:19:24,282 INFO:Processing step : saad_cnews
+2023-05-17 11:19:24,285 INFO:Infering 2001 images
+2023-05-17 11:21:37,421 INFO:Processing step : {'generique': 'saad_gen_cnews'}
+2023-05-17 11:21:37,422 INFO:Inferring 6 images which were labeled generique
+2023-05-17 11:21:39,611 INFO:Task finished after 135.3283695040002 seconds
+2023-05-17 13:25:36,206 INFO:New instance of worker
+2023-05-17 13:25:36,206 INFO:images_folder /home/allal/PycharmProjects/learn_huggingface/frames/av:flux:tv:c+n:20230507T150000:2000, steps ['saad_cnews', {'generique': 'saad_gen_cnews'}], threshold 0.5, batch_size 128
+2023-05-17 13:25:36,206 INFO:Processing step : saad_cnews
+2023-05-17 13:25:36,214 INFO:Infering 2001 images
